@@ -33,8 +33,7 @@ Caesar Cipher Code<img width="1920" height="1080" alt="Screenshot 2025-09-19 205
 ![Decryption example]<img width="1920" height="1080" alt="Decrypt" src="https://github.com/user-attachments/assets/868ac69d-2ed0-4139-b7e2-dfd682f2c576" />
 
 
-
-##📃Example Usage
+## 📃Example Usage
 
 Run the program:
 
